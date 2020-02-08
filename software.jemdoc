@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{software.html}, nofooter
+= Mojtaba Tefagh -- Software
+[/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]
+
+=== A COBRA toolbox extension for quantitative flux coupling analysis
+- *Project name:* +QFCA+
+- *Project homepage:* [https://web.stanford.edu/~boyd/papers/qfca.html]
+- *Operating system(s):* Platform independent
+- *Programming language:* MATLAB
+- *Other requirements:* Gurobi optimizer (optional for improved performance)
+- *License:* [http://www.gnu.org/copyleft/gpl.html GNU GPL] v3.0
+- *Any restrictions to use by non-academics:* License needed
+=== A COBRA toolbox extension for context-specific metabolic network reconstruction
+- *Project name:* +SWIFTCORE+
+- *Project homepage:* [https://mtefagh.github.io/swiftcore/]
+- *Operating system(s):* Platform independent
+- *Programming language:* MATLAB
+- *Other requirements:* The COBRA and Bioinformatics toolboxes for MATLAB; use of Gurobi or CPLEX is optional for improved performance (free academic licenses are available for both)
+- *License:* [http://www.gnu.org/copyleft/gpl.html GNU GPL] v3.0
+- *Any restrictions to use by non-academics:* License needed
+=== A Julia package for sparse quantitative flux coupling analysis
+- *Project name:* +sparseQFCA.jl+
+- *Project homepage:* [https://pkg.julialang.org/docs/sparseQFCA/kNUWx/0.6.0/]
+- *Operating system(s):* Platform independent
+- *Programming language:* [https://julialang.org/ {{<img src="https://julialang.org/v2/img/logo.svg" height="20" />}}]
+- *Other requirements:* [https://github.com/JuliaOpt/JuMP.jl {{<img src="https://camo.githubusercontent.com/31d60f762b44d0c3ea47cc16b785e042104a6e03/68747470733a2f2f7777772e6a756c69616f70742e6f72672f696d616765732f6a756d702d6c6f676f2d776974682d746578742e737667" height="20" />}}]
+- *License:* [http://www.gnu.org/copyleft/gpl.html GNU GPL] v3.0
+- *Any restrictions to use by non-academics:* License needed
