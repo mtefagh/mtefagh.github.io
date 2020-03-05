@@ -1,0 +1,16 @@
+# jemdoc: menu{../MENU}{swift.html}{../}, nofooter, addcss{../jemdoc.css}
+= SWIFTCORE: a tool for the context-specific reconstruction of genome-scale metabolic networks
+M. Tefagh and S.P. Boyd
+
+- [swift.pdf Manuscript]\n
+This is a post-peer-review, pre-copyedit version of an article published in /BMC Bioinformatics/. The final authenticated version is available online at: [http://dx.doi.org/10.1186/s12859-020-3440-y]
+- [https://mtefagh.github.io/swiftcore/ SWIFTCORE]\n
+*Background:* High-throughput omics technologies have enabled the comprehensive reconstructions of genome-scale 
+metabolic networks for many organisms. However, only a subset of reactions is active in each cell which differs 
+from tissue to tissue or from patient to patient. Reconstructing a subnetwork of the generic metabolic network 
+from a provided set of context-specific active reactions is a demanding computational task.\n
+*Results:* We propose SWIFTCC and SWIFTCORE as effective methods for flux consistency checking and the context-specific 
+reconstruction of genome-scale metabolic networks which consistently outperform the previous approaches.\n
+*Conclusions:* We have derived an approximate greedy algorithm which efficiently scales to increasingly large 
+metabolic networks. SWIFTCORE is freely available for non-commercial use in the GitHub repository 
+at [https://mtefagh.github.io/swiftcore/].
