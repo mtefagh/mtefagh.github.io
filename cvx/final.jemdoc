@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{final.html}
+= 22494 Convex Optimization: Final Exam
+= [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
+~~~
+{}{img_left}{final_cdf.jpg}{Final CDF}{300}
+The final exam will be a 24 hour take-home exam on Monday July 20. We will only be using remote release and turning in of the exams. Also please be sure to leave time for turning in your exam online---we will not be very forgiving of late turn-in times.\n
+*Final exam statistics (2019):*
+ - 25th percentile: 118
+ - Median: 141
+ - 75th percentile: 161
+ - Mean: 136
+~~~
+
+== Previous final exams for practice
+The necessary data files can be found
+[http://www.stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/ here].\n
+- [finals/final_19.pdf 2019 final exam]
+and [solutions/final_19_sol.pdf solutions]
+- [finals/final_17.pdf 2017 final exam]
+and [solutions/final_17_sol.pdf solutions]
+- [finals/final_16.pdf 2016 final exam]
+and [solutions/final_16_sol.pdf solutions]
+- [finals/final_15.pdf 2015 final exam]
+and [solutions/final_15_sol.pdf solutions]
+- [finals/final_14.pdf 2014 final exam]
+and [solutions/final_14_sol.pdf solutions]
+- [finals/final_13.pdf 2013 final exam]
+and [solutions/final_13_sol.pdf solutions]

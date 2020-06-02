@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{quizzes.html}
+= 22494 Convex Optimization: Quizzes
+= [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
+~~~
+{}{img_left}{quiz.png}{Quiz}{100}
+The online quizzes below are meant to cover basic material
+from the textbook. Most of them can be done without paper and pencil, but a few do require a few calculations or a drawing to answer. They are not graded, and your responses are not logged.
+~~~
+
+- [quizzes/intro.html Introduction to convex optimization]
+- [quizzes/sets.html Convex sets]
+- [quizzes/functions.html Convex functions]
+- [quizzes/problems.html Convex optimization problems]
+- [quizzes/duality.html Duality]
+- [quizzes/approx.html Approximation and fitting]
+- [quizzes/stat.html Statistical estimation]
+- [quizzes/geom.html Geometrical problems]
+- [quizzes/num_lin_alg.html Numerical linear algebra]
+- [quizzes/unconstrained.html Unconstrained minimization]

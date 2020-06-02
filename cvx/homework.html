@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>22494 Convex Optimization: Homework</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Convex Optimization</div>
+<div class="menu-item"><a href="home.html">Home</a></div>
+<div class="menu-item"><a href="courseinfo.html">Course&nbsp;info</a></div>
+<div class="menu-item"><a href="contact.html">Contact</a></div>
+<div class="menu-category">Course materials</div>
+<div class="menu-item"><a href="http://stanford.edu/~boyd/cvxbook/">Textbook</a></div>
+<div class="menu-item"><a href="quizzes.html">Quizzes</a></div>
+<div class="menu-item"><a href="https://vclass.ecourse.sharif.edu/ch/mtefagh">Webinars</a></div>
+<div class="menu-category">Assignments</div>
+<div class="menu-item"><a href="homework.html" class="current">Homework</a></div>
+<div class="menu-item"><a href="readings.html">Readings</a></div>
+<div class="menu-item"><a href="midterm.html">Midterm</a></div>
+<div class="menu-item"><a href="final.html">Final</a></div>
+<div class="menu-category">CVX*</div>
+<div class="menu-item"><a href="http://cvxr.com/cvx/">CVX</a></div>
+<div class="menu-item"><a href="http://www.cvxpy.org/">CVXPY</a></div>
+<div class="menu-item"><a href="http://convexjl.readthedocs.org">Convex.jl</a></div>
+<div class="menu-item"><a href="https://cvxr.rbind.io/">CVXR</a></div>
+<div class="menu-category">External links</div>
+<div class="menu-item"><a href="https://quera.ir/course/4654/">Quera</a></div>
+<div class="menu-item"><a href="http://www.stanford.edu/class/ee364a/">EE364a</a></div>
+<div class="menu-item"><a href="http://www.stanford.edu/class/ee364b/">EE364b</a></div>
+<div class="menu-item"><a href="https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about">CVX101</a></div>
+<div class="menu-item"><a href="http://dcp.stanford.edu">DCP&nbsp;tool</a></div>
+<div class="menu-item"><a href="http://web.stanford.edu/~boyd/papers/cvx_short_course.html">Short&nbsp;course</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>22494 Convex Optimization: Homework</h1>
+<div id="subtitle"><a href="http://math.sharif.edu/">Department of Mathematical Sciences</a>,&nbsp;<a href="http://www.sharif.ir/">Sharif University of Technology</a><br /></div>
+</div>
+<div class="infoblock">
+<div class="blockcontent">
+<p>All numbered exercises are from
+the <a href="http://www.stanford.edu/~boyd/cvxbook/" target=&ldquo;blank&rdquo;>textbook</a>;
+exercises which start with &lsquo;A&rsquo; are from the set of 
+<a href="http://web.stanford.edu/class/ee364a/additional_exercises/extra_exercises.pdf" target=&ldquo;blank&rdquo;>additional exercises</a> posted on the textbook website. <a href="http://www.stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/" target=&ldquo;blank&rdquo;>Data files</a>
+for the additional exercises can be found on the <a href="http://www.stanford.edu/~boyd/cvxbook/" target=&ldquo;blank&rdquo;>textbook page</a>. If you cannot find an additional exercise listed, you may be looking at an outdated copy of the additional exercises; you should only use <a href="http://web.stanford.edu/class/ee364a/additional_exercises/extra_exercises.pdf" target=&ldquo;blank&rdquo;>these exercises</a>.<br /></p>
+</div></div>
+<p>Homework is assigned each week, and due the following Saturday by 11:59 pm. <b>Late homework will not be accepted.</b> This year we will use <a href="https://quera.ir/overview/add_to_course/course/4654" target=&ldquo;blank&rdquo;>Quera</a>. The
+enrollment code for Quera is CVX. We will grade each question
+on a scale of {0, 1, 2}.<br /></p>
+<ul>
+<li><p>Homework 1, due Friday 2/21/20:<br />
+2.7, 2.8, 2.9, 2.13, 2.15.<br /></p>
+</li>
+<li><p>Homework 2, due Friday 2/28/20:<br />
+2.16, 2.18, 2.19, 2.30, 2.37.<br /></p>
+</li>
+<li><p>Homework 3, due Friday 3/6/20:<br />
+A1.3, A1.4, A1.5, A1.6, A1.7.<br /></p>
+</li>
+<li><p>Homework 4, due Friday 3/13/20:<br />
+3.15, 3.17, 3.18, 3.25, 3.27.<br /></p>
+</li>
+<li><p>Homework 5, due Friday 3/20/20:<br />
+3.37, 3.47, 3.48, 3.51, 3.52.<br /></p>
+</li>
+<li><p>Homework 6, due Saturday 4/11/20:<br />
+4.9, 4.12, 4.16, 4.17, 4.20.<br /></p>
+</li>
+<li><p>Homework 7, due Saturday 4/18/20:<br />
+4.22, 4.23, 4.24, 4.25, 4.45.<br /></p>
+</li>
+<li><p>Homework 8, due Saturday 4/25/20:<br />
+5.24, 5.25, 5.27, 5.29, 5.30.<br /></p>
+</li>
+<li><p>Homework 9, due Saturday 5/2/20:<br />
+5.10, 5.37, 5.40, 5.41, 5.42.<br /></p>
+</li>
+<li><p>Homework 10, due Saturday 5/9/20:<br />
+A3.3, A3.10, A3.32, A4.3, A6.5.<br /></p>
+</li>
+<li><p>Homework 11, due Saturday 5/16/20:<br />
+A3.18, A3.20, A3.26, A3.28, A4.1.<br /></p>
+</li>
+<li><p>Homework 12, due Saturday 5/23/20:<br />
+A6.30, A7.23, A14.7, A14.30, A18.21.<br /></p>
+</li>
+<li><p>Homework 13, due Saturday 5/30/20:<br />
+A5.23, A10.2, A14.31, A15.11, A17.9.<br /></p>
+</li>
+<li><p>Homework 14, due Saturday 6/6/20:<br />
+A8.5, A11.3, A15.1, A17.6, A17.13.<br /></p>
+</li>
+<li><p>Homework 15, due Saturday 6/13/20:<br />
+A5.12, A13.3, A13.4, A14.8, A14.10.<br /></p>
+</li>
+<li><p>Homework 16 (last one), due Saturday 6/20/20:<br />
+A5.15, A6.6, A11.4, A12.9, A12.13.<br /></p>
+</li>
+</ul>
+<h2>Projects</h2>
+<p>You are welcome, even encouraged, to use LaTeX to typeset your 
+project, but handwritten project is also OK.
+You're welcome (but not required) to use the 
+<a href="http://www.stanford.edu/class/ee364b/latex_templates" target=&ldquo;blank&rdquo;>LaTeX templates for
+EE364b</a>.<br /></p>
+<ul>
+<li><p>Project 1, due Saturday 6/20/20:<br />
+A9.5 Standard form LP barrier method.<br />
+A9.8 Standard form LP barrier method with infeasible start Newton method (includes A8.12).<br /></p>
+</li>
+<li><p>Project 2, due Saturday 6/20/20:<br />
+The second project involves writing a short report (1-2 pages) of a paper you read related to the course contents. A good resource for selecting your topic is the bibliography section at the end of each chapter of the book. All students are expected to give an oral summary of their reports too.<br />
+
+
+
+
+</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2020-06-02 18:05:22 Iran Daylight Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

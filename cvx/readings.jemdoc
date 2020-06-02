@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{readings.html}
+= 22494 Convex Optimization: Reading Assignments
+= [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
+~~~
+{}{img_left}{drawing_book.png}{Drawing of books}{100}
+Unless otherwise noted, all reading assignments are from the 
+[http://www.stanford.edu/~boyd/cvxbook/ textbook]. We'll be adding to them over the semester.\n
+~~~
+
+. By the end of 1st week (2\/14\/20): Appendix A and Chapter 1.
+. By the end of 2nd week (2\/21\/20): Chapter 2.
+. By the end of 3rd week (2\/28\/20): A first pass over Chapter 3.
+. By the end of 4th week (3\/6\/20): Chapter 3 (only skim 3.1 and 3.2).
+. By the end of 5th week (3\/13\/20): Chapter 3.
+. By the end of 6th week (3\/20\/20): Chapter 4.
+. By the end of 7th week (3\/27\/20): [https://dcp.stanford.edu/ DCP] rules.
+. By the end of 8th week (4\/3\/20): CVX* Users\' Guide.
+. By the end of 9th week (4\/10\/20): Chapter 4.
+. By the end of 10th week (4\/17\/20): Chapter 5 (5.1-5.5).
+. By the end of 11th week (4\/24\/20): Chapter 5 (5.6-5.9).
+. By the end of 12th week (5\/1\/20): Chapter 6.
+. By the end of 13th week (5\/8\/20): Chapter 7.
+. By the end of 14th week (5\/15\/20): Chapter 8.
+. By the end of 15th week (5\/22\/20): Appendix C.
+. By the end of 16th week (5\/29\/20): Chapter 9 (9.1-9.3).
+. By the end of 17th week (6\/5\/20): Chapter 9 (9.4-9.7).
+. By the end of 18th week (6\/12\/20): Chapter 10.
+. By the end of 19th week (6\/19\/20): Chapter 11.
+

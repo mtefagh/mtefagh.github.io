@@ -1,0 +1,48 @@
+= Building quizzes
+
+== Download
+The latest version of Qdoc (+v0.0.1+) consists of two files:
+. [../make_quiz.py make_quiz.py]
+. [../quiz.css quiz.css]
+
+You may want to +sudo cp qdoc.py \/usr\/bin\/qdoc+ so that you can 
+just type +qdoc+. Remember to +sudo chmod \+x \/usr\/bin\/qdoc+ to 
+make it executable. 
+
+== Usage
+Make sure [http://www.python.org/ Python] is installed and that make_quiz is 
+in your path somewhere. To build a quiz, type
+~~~
+{}{}
+qdoc my_quiz.quiz
+~~~
+This will produce +my_quiz.html+.
+
+Alternatively, if you want to generate multiple quizzes at once, type
+~~~
+{}{}
+qdoc *.quiz
+~~~
+This will look at all the +.quiz+ files in your directory and generate the 
+corresponding html files. Make sure +quiz.css+ is in the same directory as 
++my_quiz.html+ to take advantage of the default formatting. 
+
+=== Syntax for .quiz files
+There are only six special syntaxes for constructing quizzes. These
+are
+
+. +{{== TITLE}}+ - this gives the title of the quiz as +TITLE+
+. +{{[LABEL]}}+ - this labels questions with +LABEL+
+. +*+ - this marks a choice
+. +*=+ - this marks the correct choice
+. +::+ - this marks the beginning of a comment on the choice
+. +\{\{RAW HTML\}\}+ - this inserts the HTML as is in to the code
+
+In addition to this syntax, LaTeX math can be used between +\$+, +\$\$+, and +\\\[+ and +\\\]+.
+
+~~~
+{An example quiz}{}
+#includeraw{../sample.quiz}
+~~~
+This code produces [../sample.html this result].
+
