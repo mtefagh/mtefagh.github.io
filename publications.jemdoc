@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Mojtaba Tefagh -- Publications
 [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]
-
+~~~
+{}{img_left}{word_art.png}{Word cloud of keywords}{200}
 : {[/papers/swift.html SWIFTCORE: a tool for the context-specific reconstruction of genome-scale metabolic networks]}
 M. Tefagh and S.P. Boyd, /BMC Bioinformatics/, 2020.
 : {[/https://doi.org/10.1101/499251 Metabolic network reductions]}
@@ -10,10 +11,10 @@ M. Tefagh and S.P. Boyd, /bioRxiv/, 2019.
 M. Tefagh and S.P. Boyd, /J. Math. Biol./, 2019.
 : {[/https://doi.org/10.1016/j.jtbi.2014.04.011 A mathematical approach to emergent properties of metabolic networks: Partial coupling relations, hyperarcs and flux ratios]}
 S.A. Marashi and M. Tefagh, /J. Theor. Biol./, 2014.
-
+~~~
 == Dissertation
 ~~~
-{}{img_left}{word_art.png}{Word cloud of keywords}{200}
+{}{img_left}{QR_code.png}{QR code}{200}
 [/https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis]\n
 Advisor:~[/https://web.stanford.edu/~boyd Stephen P. Boyd]
 ~~~
