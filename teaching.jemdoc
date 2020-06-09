@@ -4,7 +4,7 @@
 
 == Current classes
 === [/cvx/home.html *22494* Convex Optimization]\n
-Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 1399\/04\/08~9:00am | Prerequisite: Linear Algebra I\n
+Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 6\/28\/20 9:00am | Prerequisite: Linear Algebra I\n
 ~~~
 {}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{100}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
