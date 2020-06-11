@@ -40,11 +40,8 @@ to write simple scripts, so basic familiarity with elementary programming will b
 This class has *no* formal quizzes. There are online quizzes on [./quizzes.html this page]. These are just for fun; they are not graded and your responses are not logged.
 
 == Catalog description
-~~~
-{}{img_left}{more_info.jpg}{More info}{120}{120}{https://t.me/MCS_SGC/456}
 Concentrates on recognizing and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and 
-applications. Interior-point methods. Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance. Please click on the image to the left for more information.
-~~~
+applications. Interior-point methods. Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance. 
 
 == Course objectives
     - to give students the tools and training to recognize convex optimization problems that arise in applications
@@ -53,4 +50,8 @@ applications. Interior-point methods. Applications to signal processing, statist
     - to give students the background required to use the methods in their own research work or applications
 
 == Intended audience
-This course should benefit anyone who uses or will use scientific computing or optimization in engineering or related work (e.g., machine learning, finance). More specifically, people from the following departments and fields: Mathematical Sciences (especially computer science and applied mathematics); Computer Engineering (especially areas like machine learning, robotics, computer graphics, algorithms & complexity, computational geometry); Electrical Engineering (especially areas like signal and image processing, communications, control, EDA & CAD). The course may be useful to students and researchers in several other fields as well: Computational Mathematics, Operations Research, Statistics, Economics.
+~~~
+{}{img_left}{more_info.jpg}{More info}{120}{120}{https://t.me/MCS_SGC/456}
+This course should benefit anyone who uses or will use scientific computing or optimization in engineering or related work (e.g., machine learning, finance). More specifically, people from the following departments and fields: Mathematical Sciences (especially computer science and applied mathematics); Computer Engineering (especially areas like machine learning, robotics, computer graphics, algorithms & complexity, computational geometry); Electrical Engineering (especially areas like signal and image processing, communications, control, EDA & CAD). The course may be useful to students and researchers in several other fields as well: Computational Mathematics, Operations Research, Statistics, Economics. Please click on the image to the left for more information.
+~~~
+
