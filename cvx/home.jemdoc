@@ -6,7 +6,7 @@ Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: S
 ~~~
 
 ~~~
-{}{img_left}{max_paraboloid.svg}{Maximum of a paraboloid}{200}
+{}{img_left}{max_paraboloid.svg}{Maximum of a paraboloid}{300}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
 ~~~
 
@@ -18,6 +18,6 @@ Convex sets, functions, and optimization problems. The basics of convex analysis
 - We will resume our class virtually amid novel coronavirus fears via [https://vclass.ecourse.sharif.edu/ch/mtefagh webinar]. All TA session will be held via [https://vclass.ecourse.sharif.edu/ch/t.mogtaba webinar] too.
 - [courseinfo.html Office hours] have been updated to reflect new online office hours.
 - [homework.html Homework 5] is posted. That finishes up the first round of assignments. There will be no lectures and homeworks on weeks 7 & 8 to observe the Nowruz holiday. Our class will resume on Sunday, April 5th. We recommend that you read sections of the book that you may have missed, or re-read sections that still confuse you during the break. We also recommend that you study the documentation for CVX*, skipping only the very driest sections. In particular, we expect you to know the [https://dcp.stanford.edu/ DCP] rules.
-- Due to the ongoing situation relating to the COVID-19 coronavirus outbreak, the in-class midterm quiz has been canceled in the best interests of students and is replaced by a pair of [homework.html projects] due Saturday 6\/20\/20.
+- Due to the ongoing situation relating to the COVID-19 coronavirus outbreak, the in-class midterm quiz has been canceled in the best interests of students and is replaced by a pair of [homework.html projects].
 
 
