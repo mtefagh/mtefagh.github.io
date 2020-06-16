@@ -4,8 +4,10 @@
 ~~~
 Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am @ Aleph 23 | Exam Date\/Time: 7\/20\/20 8:00am | Prerequisite: Linear Algebra I
 ~~~
+~~~
 {}{img_left}{max_paraboloid.svg}{Maximum of a paraboloid}{500}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
+~~~
 == Announcements
 - Welcome to 22494 Convex Optimization, Spring semester 2020!
 - This course was originally developed by [http://stanford.edu/~boyd/ Stephen Boyd]. We will use the same course text and many of the same course materials.
