@@ -6,7 +6,7 @@ Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: S
 ~~~
 
 ~~~
-{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{100}
+{}{img_left}{max_paraboloid.svg}{Maximum of a paraboloid}{200}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
 ~~~
 
