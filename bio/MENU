@@ -1,4 +1,4 @@
-Convex Optimization
+Topics in Mathematical Biology
     Home            [home.html]
     Course info     [courseinfo.html]
     Contact         [contact.html]
@@ -11,6 +11,12 @@ Course materials
 Assignments
     Readings        [readings.html]
 
+COBRA*
+    COBRA           [https://opencobra.github.io/cobratoolbox/]
+    COBRApy         [https://opencobra.github.io/cobrapy/]
+    COBRA.jl        [https://opencobra.github.io/COBRA.jl]
+
 External links
     Quera	    [https://quera.ir/course/6014/] 
+    22494 Convex Optimization   [http://www.stanford.edu/class/ee364a/]
 
