@@ -23,4 +23,4 @@ Good knowledge of convex optimization (as in 22494), and exposure to bioinformat
 
 You will use one of the [https://opencobra.github.io/cobratoolbox/ COBRA] toolbox (Matlab),
 [https://opencobra.github.io/cobrapy/ COBRApy] (Python), or
-[https://opencobra.github.io/COBRA.jl COBRA.jl] (Julia), to write simple scripts, so basic familiarity with elementary programming will be required. We refer to COBRA, COBRApy, and Convex.jl collectively as COBRA*.
+[https://opencobra.github.io/COBRA.jl COBRA.jl] (Julia), to write simple scripts, so basic familiarity with elementary programming will be required. We refer to COBRA, COBRApy, and COBRA.jl collectively as COBRA*.
