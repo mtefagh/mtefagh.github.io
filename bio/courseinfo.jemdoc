@@ -30,12 +30,13 @@ This course discusses computational systems biology focusing on select topics in
 
 == Course objectives
     - to present the basic theory of optimization methods, concentrating on results that arise in systems biology applications
-    - to give students the background required to use the methods in their own research work or applications
+    - to give students the background required to use the optimization methods in their own research work or applications
     - to give students the tools and training to understand and simulate models of metabolic pathways/networks dynamics
     - to give students a thorough understanding of how such models are analyzed, and some experience in analyzing them
 
 == Intended audience
 This course should benefit anyone who uses or will use optimization methods in systems biology or related work (e.g., computational biology, bioinformatics). More specifically, people from the following departments and fields:
 - Mathematical Sciences (especially computer science and applied mathematics); 
-- Biochemistry (especially areas like molecular biology, cell biology, enzymology, metabolism).\n
+- Biochemistry (especially areas like molecular biology, cell biology, enzymology, metabolism).
+ 
 The course may be useful to students and researchers in several other fields as well: Computational Mathematics, Computer Engineering, Biotechnology, Operations Research.
