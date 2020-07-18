@@ -16,7 +16,7 @@ Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teac
 - TBD
 
 == Textbook and optional references
-The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks].
+The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks]. [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] can serve as an auxiliary text.
 
 == Prerequisites
 Good knowledge of convex optimization (as in 22494), and exposure to bioinformatics.\n
@@ -39,4 +39,5 @@ This course should benefit anyone who uses or will use optimization methods in s
 - Mathematical Sciences (especially computer science and applied mathematics); 
 - Biochemistry (especially areas like molecular biology, cell biology, enzymology, metabolism).
  
+
 The course may be useful to students and researchers in several other fields as well: Computational Mathematics, Computer Engineering, Biotechnology, Operations Research.
