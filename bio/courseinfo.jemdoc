@@ -3,7 +3,7 @@
 [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 
 == Lectures
-Lectures are Saturdays and Mondays, 3:00--5:00 pm,  via [https://vclass.ecourse.sharif.edu/ch/mtefagh webinar]. Click [https://vclass.ecourse.sharif.edu/help/ here] to learn more about our webinars.\n
+Lectures are Saturdays and Mondays, 3:00--5:00 pm, and are live streamed online via [https://vclass.ecourse.sharif.edu/ch/mtefagh webinar]. Click [https://vclass.ecourse.sharif.edu/help/ here] to learn more about our webinars.\n
 
 Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teacher/id/128/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AA%D9%81%D8%A7%D9%82.html OCW] shortly after the end of the semester, but should not be considered a substitute for coming to class. You are encouraged to attend the live webinars but the recorded videos are available [https://www.aparat.com/mtefagh here].
 
@@ -26,7 +26,7 @@ You will use one of the [https://opencobra.github.io/cobratoolbox/ COBRA] toolbo
 [https://opencobra.github.io/COBRA.jl COBRA.jl] (Julia) to write simple scripts, so basic familiarity with elementary programming will be required. We refer to COBRA, COBRApy, and COBRA.jl collectively as COBRA*.
 
 == Catalog description
-This course discusses computational systems biology focusing on select topics in metabolomics in a well-balanced mixture of biology, mathematics, and computer science. We start by looking in detail at the mathematical underpinning of constraint-based analysis of genome-scale metabolic network reconstructions and provide a foundation for the analysis of optimization algorithms involved. Subsequently, we provide an overview of various papers and toolboxes from the literature in the remainder of the semester. Students will explore concepts through a research-oriented term project that will require them to define goals, success metrics, and deliverables for a computational challenge in systems biology and implement and evaluate a solution.
+This course discusses computational systems biology focusing on select topics in fluxomics in a well-balanced mixture of biology, mathematics, and computer science. We start by looking in detail at the mathematical underpinning of constraint-based analysis of genome-scale metabolic network reconstructions and provide a foundation for the analysis of optimization algorithms involved. Subsequently, we provide an overview of various papers and toolboxes from the literature in the remainder of the semester. Students will explore concepts through a research-oriented term project that will require them to define goals, success metrics, and deliverables for a computational challenge in systems biology and implement and evaluate a solution.
 
 == Course objectives
     - to present the basic theory of optimization methods, concentrating on results that arise in systems biology applications
