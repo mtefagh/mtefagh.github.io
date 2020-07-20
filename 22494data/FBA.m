@@ -1,0 +1,11 @@
+clear all; close all; clc;
+load('Recon3D.mat');
+n = length(Recon3D.rxnNames);
+b = find(Recon3D.rxnNames == "Generic Human Biomass Reaction");
+order = [1:(b-1), (b+1):n, b];
+name = Recon3D.rxnNames(order);
+lower_bound = Recon3D.lb(order);
+upper_bound = Recon3D.ub(order);
+subsystem = Recon3D.subSystems(order);
+S = Recon3D.S(:, order);
+clear Recon3D b order;
