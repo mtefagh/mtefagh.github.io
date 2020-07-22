@@ -87,10 +87,23 @@ also serve as their office hours, starting the second week of class. Attendance 
 <li><p><i>Final exam</i>.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Tuesday June 9&ndash;10.</p>
 </li></ol>
 </li>
-<li><p><b>Grading:</b> Homework 20%, midterm 10%, final exam 70%. These weights are approximate; we reserve the right to change them later.
-</p>
+<li><p><b>Grading:</b> Homework 20%, midterm 10%, final exam 70%. These weights are approximate; we reserve the right to change them later.<br /></p>
+<ol>
+<li><p><b>Update.</b> The final weights are the solution of the following linear program</p>
 </li>
 </ol>
+
+</li>
+</ol>
+<p style="text-align:center">
+\[
+\begin{array}{ll} 
+	\mbox{maximize} &amp; c^Tx \\ 
+	\mbox{subject to} &amp; 1^Tx = 1^T\tilde{x} \\ &amp; \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 3,
+\end{array}
+\]
+</p><p>where \(c_1\), \(c_2\), and \(c_3\) are the normalized homework, project, final exam grades, respectively.
+</p>
 <h2>Prerequisites</h2>
 <p>Good knowledge of linear algebra (as in 22255), and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.<br />
 
@@ -126,7 +139,7 @@ applications. Interior-point methods. Applications to signal processing, statist
 </td></tr></table>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-07-20 15:03:45 Iran Daylight Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2020-07-22 07:54:19 Iran Daylight Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
