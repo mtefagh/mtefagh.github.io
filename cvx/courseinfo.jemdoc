@@ -24,13 +24,13 @@ The course materials are the same as [https://web.stanford.edu/class/ee364a EE36
 . *Requirements:*
  .. /Weekly homework assignments/, due each Friday 5pm, starting February 21. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in. Each question on the homework will be graded on a scale of {0, 1, 2}. Some assignments require you to use convex programming software such as [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), [http://convexjl.readthedocs.org Convex.jl] (Julia), or [https://cvxr.rbind.io/ CVXR] (R), which we refer to as CVX*.
  .. /Midterm quiz/. The format is an in-class, 75 minute, closed book, closed notes midterm scheduled for Sunday April 5.
- .. /Final exam/.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Tuesday June 9--10.
-. *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights are approximate; we reserve the right to change them later.\n
- .. *Update.* The final weights are the solution of the following linear program
+ .. /Final exam/.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Tuesday June 28--29.
+. *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights ($\tilde{x}$) are approximate; we reserve the right to change them later.\n
+ .. /Update/. The final weights are the solution of the following linear program
 \(
 \begin{array}{ll} 
 	\mbox{maximize} & c^Tx \\ 
-	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 3,
+	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \frac{1}{2} \leq 	\frac{x_i}{\tilde{x}_i} \leq 2, \quad 1\leq i\leq 3
 \end{array}
 \)
 where $c_1$, $c_2$, and $c_3$ are the normalized homework, project, final exam grades, respectively.
