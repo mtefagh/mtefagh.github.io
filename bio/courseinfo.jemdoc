@@ -16,7 +16,7 @@ Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teac
 - TBD
 
 == Textbook and optional references
-The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks]. [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] can serve as an auxiliary text.
+The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks]. [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] can serve as an auxiliary text. Moreover, we will use the [http://works.bepress.com/scott_hinton/41/ constraint-based modeling lectures] from a course on metabolic modeling taught by Scott Hinton.
 
 == Prerequisites
 Good knowledge of convex optimization (as in 22494), and exposure to bioinformatics.\n

@@ -2,13 +2,13 @@
 = 22494 Convex Optimization: Final Exam
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
-{}{img_left}{final_cdf.jpg}{Final CDF}{300}
-The final exam will be a 24 hour take-home exam on Monday July 20. We will only be using remote release and turning in of the exams. Also please be sure to leave time for turning in your exam online---we will not be very forgiving of late turn-in times.\n
-*Final exam statistics (2019):*
- - 25th percentile: 118
- - Median: 141
- - 75th percentile: 161
- - Mean: 136
+{}{img_left}{final_cdf.png}{Final Histogram}{600}
+The [finals/2020-final.pdf final exam] will be a 24 hour take-home exam on Monday July 20. We will only be using remote release and turning in of the exams. Also please be sure to leave time for turning in your exam online---we will not be very forgiving of late turn-in times.\n
+*Final exam statistics (2020):*
+ - 25th percentile: 47
+ - Median: 63
+ - 75th percentile: 70
+ - Mean: 55.42
 ~~~
 
 == Previous final exams for practice
