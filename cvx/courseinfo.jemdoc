@@ -29,8 +29,8 @@ The course materials are the same as [https://web.stanford.edu/class/ee364a EE36
  .. /Update/. The final weights are the solution of the following linear program
 \(
 \begin{array}{ll} 
-	\mbox{maximize} & c^Tx \\ 
-	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{2} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq 2, \quad 1\leq i\leq 3
+	\mbox{maximize} & c^Tx + 2(1-a)\\ 
+	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 3
 \end{array}
 \)
 where $c_1$, $c_2$, and $c_3$ are the normalized homework, project, final exam grades, respectively.
