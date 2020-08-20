@@ -4,7 +4,7 @@
 
 == Current classes
 === [/bio/home.html *22290* Topics in Mathematical Biology]\n
-Term: Fall 2020 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: TBD | Prerequisite: Convex Optimization\n
+Term: Fall 2020 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: 1\/18\/21 9:00am | Prerequisite: Convex Optimization\n
 ~~~
 {}{img_left}{metnet_logo.png}{A metabolic network}{250}
 This course discusses computational systems biology focusing on select topics in fluxomics in a well-balanced mixture of biology, mathematics, and computer science. We start by looking in detail at the mathematical underpinning of constraint-based analysis of genome-scale metabolic network reconstructions and provide a foundation for the analysis of optimization algorithms involved. Subsequently, we provide an overview of various papers and toolboxes from the literature in the remainder of the semester. Students will explore concepts through a research-oriented term project that will require them to define goals, success metrics, and deliverables for a computational challenge in systems biology and implement and evaluate a solution.
