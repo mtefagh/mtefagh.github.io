@@ -3,6 +3,7 @@
 [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]
 
 === [/https://mtefagh.github.io/qfca/ A COBRA toolbox extension for quantitative flux coupling analysis]
+Compressed biological systems of tens of thousands of biochemical reactions by a hierarchical organization of pathways which speeds up the downstream analysis up to $3\times$ in addition to saving memory and storage space
 - *Project name:* +QFCA+
 - *Project homepage:* [https://web.stanford.edu/~boyd/papers/qfca.html]
 - *Operating system(s):* Platform independent
@@ -11,6 +12,7 @@
 - *License:* [http://www.gnu.org/copyleft/gpl.html GNU GPL] v3.0
 - *Any restrictions to use by non-academics:* License needed
 === [/https://mtefagh.github.io/swiftcore/ A COBRA toolbox extension for context-specific metabolic network reconstruction]
+Accelerated the state-of-the-art in genome-scale metabolic network reconstruction more than $10\times$ by convex optimization techniques such as factorization, approximation, and regularization
 - *Project name:* +SWIFTCORE+
 - *Project homepage:* [https://web.stanford.edu/~boyd/papers/swiftcore.html]
 - *Operating system(s):* Platform independent
@@ -19,6 +21,7 @@
 - *License:* [http://www.gnu.org/copyleft/gpl.html GNU GPL] v3.0
 - *Any restrictions to use by non-academics:* License needed
 === [/https://mtefagh.github.io/sparseQFCA.jl/ A Julia package for sparse quantitative flux coupling analysis]
+Developed a registered Julia package which quantifies the redundancies in genome-scale metabolic networks and provides local sparse certificates which are both efficiently verifiable and interpretable
 - *Project name:* +sparseQFCA.jl+
 - *Project homepage:* [https://juliahub.com/docs/sparseQFCA/kNUWx/0.6.0/]
 - *Operating system(s):* Platform independent
