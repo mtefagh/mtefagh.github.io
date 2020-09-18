@@ -3,9 +3,9 @@
 [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 
 == Lectures
-Lectures are Saturdays and Mondays, 3:00--5:00 pm, and are live streamed online via [https://vclass.ecourse.sharif.edu/ch/mtefagh webinar]. Click [https://vclass.ecourse.sharif.edu/help/ here] to learn more about our webinars.\n
+Lectures are Saturdays and Mondays, 3:00--5:00 pm, and are live streamed online via [https://vc.sharif.edu/ch/mtefagh webinar]. Click [https://vc.sharif.edu/help/ here] to learn more about our webinars.\n
 
-Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teacher/id/128/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AA%D9%81%D8%A7%D9%82.html OCW] shortly after the end of the semester, but should not be considered a substitute for coming to class. You are encouraged to attend the live webinars but the recorded videos are available [https://www.aparat.com/mtefagh here].
+Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teacher/id/128/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AA%D9%81%D8%A7%D9%82.html OCW] shortly after the end of the semester but should not be considered a substitute for coming to class. You are encouraged to attend the live webinars, but the recorded videos are available [https://www.aparat.com/mtefagh here].
 
  == Office hours
  *Mojtaba Tefagh's office hours:* Saturdays, 5:00--6:00 pm, via [https://vclass.ecourse.sharif.edu/ch/mtefagh webinar].\n\n
@@ -17,6 +17,13 @@ Videos of all in-class lectures will be available on [http://ocw.sharif.edu/teac
 
 == Textbook and optional references
 The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks]. [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] can serve as an auxiliary text. Moreover, we will use the [http://works.bepress.com/scott_hinton/41/ constraint-based modeling lectures] from a course on metabolic modeling taught by Scott Hinton.
+
+== Course requirements and grading
+. * Project requirements:*
+ .. / Initial proposal/. title + team members (max size of 3 students) + 1-page description of concept and methods (excluding references) 
+ .. /Milestone report/. early draft of at most 3 pages (including annexes and figures) + next steps and intended experiments + contributions of each team member
+ .. /Final Writeup/. report (maximum 5 pages long) + link to the GitHub repository + contributions of each team member
+. *Grading:* Homework 30\%, project 70\%. These weights are approximate; we reserve the right to change them later.\n
 
 == Prerequisites
 Good knowledge of convex optimization (as in 22494), and exposure to bioinformatics.\n
