@@ -49,14 +49,24 @@ MathJax.Hub.Config({
 <td align="left"><p>We will update this page with more information about the project ideas soon.<br /></p>
 </td></tr></table>
 <h3>Flux inhibition analysis</h3>
-<p>Chapter 5 of <a href="https://searchworks.stanford.edu/view/13249450" target=&ldquo;blank&rdquo;>Applications of convex optimization in metabolic network analysis</a> is an incomplete work which needs an efficient implementation and further analysis of biological fidelity through investigating examples in real-world genome-scale models.</p>
+<p>Chapter 5 of <a href="https://searchworks.stanford.edu/view/13249450" target=&ldquo;blank&rdquo;>Applications of convex optimization in metabolic network analysis</a> is an incomplete work that needs an efficient implementation and further analysis of biological fidelity through investigating examples in real-world genome-scale models.</p>
 <h3>Sparsity pattern of stoichiometry matrix</h3>
 <p>Although permuting the rows and columns of a stoichiometry matrix does not change the metabolic model, it changes the sparsity pattern of the matrix. A suite of sparse matrix storage algorithms exists which can be utilized to potentially decompose the metabolic network by searching pivoting sequences. For instance, if the metabolites and reactions of a microorganism can be ordered such that the corresponding stoichiometry matrix has a block-arrow sparsity pattern, then it means that there exist currency metabolites and core reactions whose removal decomposes the model into several subnetworks.  </p>
 <h3>Application of symbolic and algebraic computation</h3>
 <p>Whenever there is uncertainty about entries, for example in the biomass vector, can we calculate some of the desired properties by assuming only the sparsity pattern and not the numeric value of coefficients? The answer to this question is also of conceptual interest, as it shows which emergent properties are the consequence of exact numerical values and which ones are not.</p>
+<h3>Steady-state assumption in the constraint-based analysis</h3>
+<p>What characteristics of a dynamic system may allow assuming a proxy static model while preserving essential information? What properties are lost by this simplification? What are the dynamical extensions of the constraint-based approach and which additional aspects are studied by them?</p>
+<h3>Location-specific modeling</h3>
+<p>The particular locations of enzymes and metabolites are currently distinguished by compartments. There exists a wide variety of spatial structures including but not limited to subpopulations in a bacterial population, biofilms, cancerous tumors, molecular scaffoldings, etc. which the current models are not aware of and can be added to the future frameworks in order to increase the prediction accuracy.</p>
+<h3>Metabolic interactions in bacterial populations</h3>
+<p>Strategies to engineer the collective behavior of bacterial populations, for example, the gut microbiome, are far less evident than strain design methods in synthetic biology. One reason may be the lack of necessary tools to tackle this challenge in the current models which are mostly based on multi-criterion optimization, game theory, and cellular automata.</p>
+<h3>Optimization-based approaches vs data-driven frameworks</h3>
+<p>Reviewing the different algorithms in each one of these two categories and comparing the cons and pros of each one can pave the way for designing the next-generation of constraint-based methods. Do living organisms always behave extremely optimal or can they be described by a set of constraints and rules instead of a final goal?</p>
+<h3>Integration of metabolite densities in metabolic network models</h3>
+<p>In many cases, the available data is in the form of metabolite densities instead of flux measurements, for instance, the glucose density in a bacterial culture medium or biomarkers in the blood of a cancer patient. What is the state-of-the-art in the integration of metabolite density and reaction flux information?</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-09-28 10:36:02 Iran Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2020-10-01 21:14:40 Iran Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
