@@ -12,7 +12,7 @@ This course is originally developed by [http://stanford.edu/~boyd/ Stephen P. Bo
 === [/bio/home.html *22290* Topics in Mathematical Biology]\n
 Term: Fall 2020 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: 1\/18\/21 9:00am | Prerequisite: Convex Optimization\n
 ~~~
-{}{img_left}{word_art.png}{Word cloud of COBRA keywords}{250}
+{}{img_left}{word_art.png}{Word cloud of COBRA keywords}{250}{}{/bio/home.html}
 This course discusses computational systems biology focusing on select topics in fluxomics in a well-balanced mixture of biology, mathematics, and computer science. We start by looking in detail at the mathematical underpinning of constraint-based analysis of genome-scale metabolic network reconstructions and provide a foundation for the analysis of optimization algorithms involved. Subsequently, we provide an overview of various papers and toolboxes from the literature in the remainder of the semester. Students will explore concepts through a research-oriented term project that will require them to define goals, success metrics, and deliverables for a computational challenge in systems biology and implement and evaluate a solution.
 ~~~
 
@@ -21,7 +21,7 @@ The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 
 === [/cvx/home.html *22494* Convex Optimization]\n
 Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 6\/28\/20 9:00am | Prerequisite: Linear Algebra I\n
 ~~~
-{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}
+{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}{}{/cvx/home.html}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
 ~~~
 
