@@ -2,7 +2,9 @@
 = Atomic Bonded Cross-chain Debt
 M. Tefagh, F. Bagheri, A. Khajehpour, and M. Abdi
 
+- [BP-Mojtaba Tefagh-E005.pdf Best presentation award]\n
+Selected as the best presentation of /computer and information engineering/ session.
 - [ABCD.pdf Manuscript]\n
 This is a post-peer-review, pre-copyedit version of an article published in /Proceedings of the 2020 3rd International Conference on Blockchain Technology and Applications/ (ICBTA). The final authenticated version is available online at: [https://dl.acm.org/conference/icbta/proceedings]
 - [https://github.com/incentivus/ABCD +Reference implementation+]\n
-Inspired by the recent boom in /decentralized finance/ (DeFi) and the unprecedented success of flash loan projects in this ecosystem, we introduce a decentralized debt derivative named /atomic bonded crosschain debt/ (ABCD) to bridge the gap between the growth of lending protocols on Ethereum and other UTXO-based blockchains specifically Bitcoin. We think of ABCD as the alphabet of interoperability for DeFi and as a credit infrastructure which unlike the current protocols is not limited by requiring either smart contracts, over-collateralization, or instantaneous payback.
+Inspired by the recent boom in /decentralized finance/ (DeFi) and the unprecedented success of flash loan projects in this ecosystem, we introduce a decentralized debt derivative named /atomic bonded cross-chain debt/ (ABCD) to bridge the gap between the growth of lending protocols on Ethereum and other UTXO-based blockchains specifically Bitcoin. We think of ABCD as the alphabet of interoperability for DeFi and as a credit infrastructure which unlike the current protocols is not limited by requiring either smart contracts, over-collateralization, or instantaneous payback.
