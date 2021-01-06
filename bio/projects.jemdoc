@@ -5,6 +5,7 @@
 {}{img_left}{project.png}{Project}{100}
 We will update this page with more information about the project ideas soon.\n
 ~~~
+
 == Project ideas
 === Flux inhibition analysis
 Chapter 5 of [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] is an incomplete work that needs an efficient implementation and further analysis of biological fidelity through investigating examples in real-world genome-scale models.
