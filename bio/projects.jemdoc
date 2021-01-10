@@ -3,7 +3,7 @@
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
 {}{img_left}{project.png}{Project}{100}
-We will update this page with more information about the project ideas soon.\n
+We will update this page with more information about the project topics soon.\n
 ~~~
 
 == Project ideas
@@ -30,4 +30,6 @@ In many real-world scenarios, the available data is in the form of metabolite co
 Nahid Sarem Sangari, Mohammad Kashkooli, Mahdi Malekpour
 === [https://github.com/marzie-abdolhamdi/Metabolic-network Sparsity pattern of the stoichiometry matrix of RECOND3D model]
 Marzie Abdolhamdi, Saba Hosseini, Niloofar Latifian
+=== [MathBioReport1.pdf Dynamic optimization approach for genome-scale investigation of metabolic reprogramming]
+Fateme Safaeifard, Parisa Vosooq Nejad, Saeed Aghamiri
 
