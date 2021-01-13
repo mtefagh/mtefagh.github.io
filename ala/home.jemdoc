@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{home.html}
-= 22290 Topics in Mathematical Biology
+= 22659 Applied Linear Algebra
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
 Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 7\/4\/21 9:00am | Prerequisite: Linear Algebra I
@@ -35,6 +35,13 @@ Please use the course's [https://quera.ir/course/7511/ Quera forum] to ask (and 
 
 == Textbook and optional references
 This course is originally developed by [http://stanford.edu/~boyd/ Stephen P. Boyd]. The course materials are the same as [https://web.stanford.edu/class/engr108/ ENGR108] at Stanford. Specifically, the textbook and lecture slides can be found [https://web.stanford.edu/~boyd/vmls/ here].
+
+== Course requirements and grading
+. *Requirements:*
+ .. /Weekly homework assignments/, due each Friday 5pm, starting February 21. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in. Each question on the homework will be graded on a scale of {0, 1, 2}. Some assignments require you to use convex programming software such as [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), [http://convexjl.readthedocs.org Convex.jl] (Julia), or [https://cvxr.rbind.io/ CVXR] (R), which we refer to as CVX*.
+ .. /Midterm quiz/. The format is an in-class, 75 minute, closed book, closed notes midterm scheduled for Sunday April 5.
+ .. /Final exam/.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Sunday June 28--29.
+. *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights are approximate; we reserve the right to change them later.
 
 == Prerequisites
 Exposure to computer programming and good knowledge of linear algebra (as in 22255 or equivalent background) is a prerequisite or corequisite.\n
