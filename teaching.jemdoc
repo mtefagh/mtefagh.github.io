@@ -12,10 +12,10 @@ Vector space, linear independence, dimension, duality, linear mappings, matrices
 
 This course covers the fundamentals of linear algebra with emphasis on the concepts and analytical aspects to build a solid background as it is the prerequisite for most of the curriculum.
 
-=== [/ala *22659* Applied Linear Algebra]
+=== [/ala/home.html *22659* Applied Linear Algebra]
 Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 7\/4\/21 9:00am | Prerequisite: Linear Algebra I\n
 ~~~
-{}{img_left}{https://web.stanford.edu/~boyd/vmls/vmls_cover.jpg}{Introduction to applied linear algebra}{250}{}{http://sharif.edu/~mtefagh/ala}
+{}{img_left}{https://web.stanford.edu/~boyd/vmls/vmls_cover.jpg}{Introduction to applied linear algebra}{250}{}{./ala/home.html}
 Introduction to applied linear algebra with a focus on applications. Vectors, distance, and angle; applications to clustering (the k-means algorithm) and document analysis. Matrices, left and right inverses, QR factorization; applications to population and epidemic dynamics. Least-squares, constrained and nonlinear least-squares; applications to model fitting, regularization and cross-validation. Additional applications include but are not limited to time-series prediction, tomography, optimal control, and portfolio optimization.
 ~~~
 
