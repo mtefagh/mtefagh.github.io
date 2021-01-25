@@ -23,21 +23,17 @@ This course is originally developed by [http://stanford.edu/~boyd/ Stephen P. Bo
 == Course requirements and grading
 . *Requirements:*
  .. /Attendance and participation at sections/.
- .. /Weekly homework assignments/, due each Saturday 11:59 pm, starting the second week of class. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in.\n
-
-You will have theory problem sets for the first few weeks. Afterward, most of the assignments require you to use the Julia programming language.
+ .. /Biweekly homework assignments/, due on Saturdays by 11:59 pm, starting the second week of class. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in.
  .. /Theory quiz/. The format is a closed book, closed notes midterm, scheduled for the last week of classes before the Nowruz holiday break.
  .. /Applied quiz/. The format is a closed book, closed notes midterm, scheduled for about one month after the Nowruz holiday break.
  .. /Final exam/.  The format is an in-class, 120-minute exam, scheduled for Sunday July 4th 9:00 am.
 . *Grading:* Homework 35\%, theory quiz 20\%, applied quiz 20\%, final exam 25\%. These weights are approximate; we reserve the right to change them later.
 
-== Homework
-This year we have mostly programming assignments, and we will use the Quera online judge system to grade the coding exercises. The enrollment code for Quera is ALA (sign up at [https://quera.ir/overview/add_to_course/course/7511 this link]). The problems will normally be assigned each Saturday, and due the following Saturday by 11:59 pm. However, the exact deadlines to submit your solutions are also announced on Quera.\n
-
+== Homework grace period
 You are given 7 "grace days" (counted in 24-hour periods) if you need extra time because of a *serious problem*, use them wisely! The cutoff for on-time submission is 11:59:00 pm on the due date, and submitting at 11:59:01 pm is the same as 11:59:00 pm the next day. Late submissions will not be accepted after the hard deadline of 48 hours past the original due date.
 
 == Quera
-Please use the course's [https://quera.ir/course/7511/ Quera forum] to ask (and answer) questions about the course materials; there will be some extra credit for high quality contribution.
+Please use the course's [https://quera.ir/course/7511/ Quera forum] to ask (and answer) questions about the course materials; there will be some extra credit for high quality contribution. The enrollment code for Quera is ALA (sign up at [https://quera.ir/overview/add_to_course/course/7511 this link]).
 
 == Lectures
 Lectures are Sundays and Tuesdays, 8:00--10:00 am, and are live streamed online via [https://vc.sharif.edu/ch/mtefagh webinar]. Click [https://vc.sharif.edu/help/ here] to learn more about our webinars.\n
