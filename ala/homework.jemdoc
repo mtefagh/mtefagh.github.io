@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{homework.html} 
+= 22290 Topics in Mathematical Biology: Homework
+= [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
+~~~
+This year we have mostly programming assignments, and we will use an online judge system to grade the coding exercises. The problems will normally be assigned on Saturdays, and due the Saturday after the next by 11:59 pm. However, the exact deadlines to submit your solutions are the same as those for Linear Algebra I announced in [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255/13992 here].
+~~~
+
+You will have theory problem sets for the first few weeks. Afterward, most of the assignments require you to use the Julia programming language.
+
+
+
