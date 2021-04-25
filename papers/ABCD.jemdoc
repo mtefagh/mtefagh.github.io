@@ -11,3 +11,8 @@ This is a post-peer-review, pre-copyedit version of an article published in the 
 Showcased in the demonstration session of IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2021)
 - [https://github.com/incentivus/ABCD +Reference implementation+]\n
 Inspired by the recent boom in /decentralized finance/ (DeFi) and the unprecedented success of flash loan projects in this ecosystem, we introduce a decentralized debt derivative named /atomic bonded cross-chain debt/ (ABCD) to bridge the gap between the growth of lending protocols on Ethereum and other UTXO-based blockchains specifically Bitcoin. We think of ABCD as the alphabet of interoperability for DeFi and as a credit infrastructure which unlike the current protocols is not limited by requiring either smart contracts, over-collateralization, or instantaneous payback.
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmTVdMyMVSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
