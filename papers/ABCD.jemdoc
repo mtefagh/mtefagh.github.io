@@ -2,6 +2,8 @@
 = Atomic Bonded Cross-chain Debt
 M. Tefagh, F. Bagheri, A. Khajehpour, and M. Abdi
 
+- [https://atomicbond.finance/ ABCD]
+Inspired by the recent boom in /decentralized finance/ (DeFi) and the unprecedented success of flash loan projects in this ecosystem, we introduce a decentralized debt derivative named /atomic bonded cross-chain debt/ (ABCD) to bridge the gap between the growth of lending protocols on Ethereum and other UTXO-based blockchains specifically Bitcoin. We think of ABCD as the alphabet of interoperability for DeFi and as a credit infrastructure which unlike the current protocols is not limited by requiring either smart contracts, over-collateralization, or instantaneous payback.
 - Featured in the [https://www.primafelicitas.com/dydx-exploring-approaches-to-building-liquidity-on-dexs/ Primafelicitas] blog post
 - [BP-E005.pdf Best presentation award]\n
 Selected as the best presentation of /computer and information engineering/ session of the /2020 3rd International Conference on Electronics and Communication Engineering/ (ICECE 2020) and /2020 3rd International Conference on Blockchain Technology and Applications/ (ICBTA 2020).
@@ -10,8 +12,7 @@ This is a post-peer-review, pre-copyedit version of an article published in the 
 - [demo.pdf Demo]\n
 Showcased in the demonstration session of IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2021)
 - [https://github.com/incentivus/ABCD +Reference implementation+]\n
-Inspired by the recent boom in /decentralized finance/ (DeFi) and the unprecedented success of flash loan projects in this ecosystem, we introduce a decentralized debt derivative named /atomic bonded cross-chain debt/ (ABCD) to bridge the gap between the growth of lending protocols on Ethereum and other UTXO-based blockchains specifically Bitcoin. We think of ABCD as the alphabet of interoperability for DeFi and as a credit infrastructure which unlike the current protocols is not limited by requiring either smart contracts, over-collateralization, or instantaneous payback.
-
+The codebase to reproduce the proof-of-concept described in the video below.
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VmTVdMyMVSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
