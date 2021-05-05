@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{calendar.html}, nofooter
+= Mojtaba Tefagh -- Calendar
+[/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]
+
+~~~
+{}{raw}
+<iframe src="https://calendar.google.com/calendar/embed?src=9tl6jvqqdc2ccingqjj86von10%40group.calendar.google.com&ctz=Asia%2FTehran" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+~~~
