@@ -26,7 +26,7 @@ The course materials are the same as [https://web.stanford.edu/class/ee364a EE36
  .. /Midterm quiz/. The format is an in-class, 75 minute, closed book, closed notes midterm scheduled for Sunday April 5.
  .. /Final exam/.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Sunday June 28--29.
 . *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights are approximate; we reserve the right to change them later.\n
- .. /Update/. The final weights are the solution of the following linear program
+ .. /Update/. The final weights are the solution of the [./grades.m following] linear program
 \(
 \begin{array}{ll}
 	\mbox{maximize} & c^Tx + (2-a)\max(c_{Quera/Lecture}, c_{Homework}) + c_{ExtraCreditProblem}\\
