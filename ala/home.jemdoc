@@ -7,7 +7,7 @@ Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: 40 | Lectures: S
 
 == Instructor
 [/../index.html Mojtaba Tefagh], [/https://goo.gl/maps/yihSW6s2ZYRQ73Vu9 Math 205],
-[mailto:mtefagh@sharif.edu mtefagh@sharif.edu].
+[mailto:mtefagh@sharif.edu mtefagh@sharif.edu].\n
 
 *Teaching assistants*
 - Aida Afshar
@@ -39,7 +39,7 @@ This course is originally developed by [http://stanford.edu/~boyd/ Stephen P. Bo
 \(
 \begin{array}{ll} 
 	\mbox{maximize} & c^Tx + c_{ExtraCreditProject} + \alpha(1-a)\\ 
-	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 4
+	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 4,
 \end{array}
 \)
 where $c_1$, $c_2$, $c_3$, and $c_4$ are the normalized homework, theory quiz, applied quiz, and final exam grades, respectively.
