@@ -25,18 +25,21 @@ The course materials are the same as [https://web.stanford.edu/class/ee364a EE36
  .. /Weekly homework assignments/, due each Friday 5pm, starting February 21. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in. Each question on the homework will be graded on a scale of {0, 1, 2}. Some assignments require you to use convex programming software such as [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), [http://convexjl.readthedocs.org Convex.jl] (Julia), or [https://cvxr.rbind.io/ CVXR] (R), which we refer to as CVX*.
  .. /Midterm quiz/. The format is an in-class, 75 minute, closed book, closed notes midterm scheduled for Sunday April 5.
  .. /Final exam/.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Sunday June 28--29.
-. *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights ($\tilde{x}$) are approximate; we reserve the right to change them later.\n
+. *Grading:* Homework 20\%, midterm 10\%, final exam 70\%. These weights are approximate; we reserve the right to change them later.\n
  .. /Update/. The final weights are the solution of the following linear program
 \(
-\begin{array}{ll} 
-	\mbox{maximize} & c^Tx + 2(1-a)\\ 
-	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 3
+\begin{array}{ll}
+	\mbox{maximize} & c^Tx + (2-a)\max(c_{Quera/Lecture}, c_{Homework}) + c_{ExtraCreditProblem}\\
+	\mbox{subject to} & 1^Tx = 1^T\tilde{x} \\ & \dfrac{1}{a} \leq \dfrac{x_i}{\tilde{x}_i}, \quad 1\leq i\leq 3\\ & 0 < a \leq 0.3\big(\prod_{i=1}^3 x_i\big)^{\frac{1}{3}}.
 \end{array}
 \)
-where $c_1$, $c_2$, and $c_3$ are the normalized homework, project, final exam grades, respectively.
+Note that the coefficient $2-a$ will never be negative, as we have:
+\(
+a \leq 0.3\big(\prod_{i=1}^3 x_i\big)^{\frac{1}{3}} \leq 0.3 \big(\dfrac{\sum_{i=1}^3 x_i}{3}\big) \leq 0.3 \big(\dfrac{\sum_{i=1}^3 \tilde{x}_i}{3}\big) = \leq 0.3 \big(\frac{20}{3}\big) = 2
+\)
 
 == Prerequisites
-Good knowledge of linear algebra (as in 22255), and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.\n
+Good knowledge of linear algebra (as in [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255 22255]), and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.\n
 
 You will use one of [http://cvxr.com/cvx/ CVX] (Matlab),
 [https://www.cvxpy.org/ CVXPY] (Python),

@@ -87,7 +87,7 @@ also serve as their office hours, starting the second week of class. Attendance 
 <li><p><i>Final exam</i>.  The format is a 24 hour take home, scheduled for the last week of classes, nominally Sunday June 28&ndash;29.</p>
 </li></ol>
 </li>
-<li><p><b>Grading:</b> Homework 20%, midterm 10%, final exam 70%. These weights (\(\tilde{x}\)) are approximate; we reserve the right to change them later.<br /></p>
+<li><p><b>Grading:</b> Homework 20%, midterm 10%, final exam 70%. These weights are approximate; we reserve the right to change them later.<br /></p>
 <ol>
 <li><p><i>Update</i>. The final weights are the solution of the following linear program</p>
 </li>
@@ -97,15 +97,19 @@ also serve as their office hours, starting the second week of class. Attendance 
 </ol>
 <p style="text-align:center">
 \[
-\begin{array}{ll} 
-	\mbox{maximize} &amp; c^Tx + 2(1-a)\\ 
-	\mbox{subject to} &amp; 1^Tx = 1^T\tilde{x} \\ &amp; \dfrac{1}{a} \leq 	\dfrac{x_i}{\tilde{x}_i} \leq a, \quad 1\leq i\leq 3
+\begin{array}{ll}
+	\mbox{maximize} &amp; c^Tx + (2-a)\max(c_{Quera/Lecture}, c_{Homework}) + c_{ExtraCreditProblem}\\
+	\mbox{subject to} &amp; 1^Tx = 1^T\tilde{x} \\ &amp; \dfrac{1}{a} \leq \dfrac{x_i}{\tilde{x}_i}, \quad 1\leq i\leq 3\\ &amp; 0 &lt; a \leq 0.3\big(\prod_{i=1}^3 x_i\big)^{\frac{1}{3}}.
 \end{array}
 \]
-</p><p>where \(c_1\), \(c_2\), and \(c_3\) are the normalized homework, project, final exam grades, respectively.
-</p>
+</p><p>Note that the coefficient \(2-a\) will never be negative, as we have:</p>
+<p style="text-align:center">
+\[
+a \leq 0.3\big(\prod_{i=1}^3 x_i\big)^{\frac{1}{3}} \leq 0.3 \big(\dfrac{\sum_{i=1}^3 x_i}{3}\big) \leq 0.3 \big(\dfrac{\sum_{i=1}^3 \tilde{x}_i}{3}\big) = \leq 0.3 \big(\frac{20}{3}\big) = 2
+\]
+</p><p></p>
 <h2>Prerequisites</h2>
-<p>Good knowledge of linear algebra (as in 22255), and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.<br />
+<p>Good knowledge of linear algebra (as in <a href="https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255" target=&ldquo;blank&rdquo;>22255</a>), and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.<br />
 
 You will use one of <a href="http://cvxr.com/cvx/" target=&ldquo;blank&rdquo;>CVX</a> (Matlab),
 <a href="https://www.cvxpy.org/" target=&ldquo;blank&rdquo;>CVXPY</a> (Python),
@@ -139,7 +143,7 @@ applications. Interior-point methods. Applications to signal processing, statist
 </td></tr></table>
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-05-30 21:15:22 Iran Daylight Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2021-06-26 18:56:06 Iran Daylight Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

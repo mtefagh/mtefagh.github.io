@@ -2,7 +2,7 @@
 = 22659 Applied Linear Algebra: Reading Assignments
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
-{}{img_left}{drawing_book.png}{Drawing of books}{100}
+{}{img_left}{https://web.stanford.edu/~boyd/vmls/vmls_cover.jpg}{Reference textbook}{100}
 Unless otherwise noted, all reading assignments are from the 
 [https://web.stanford.edu/~boyd/vmls/ textbook]. We'll be adding to them over the semester.\n
 ~~~
@@ -23,7 +23,8 @@ Unless otherwise noted, all reading assignments are from the
 . By the end of 14th week (5\/21\/21): Multi-objective least squares.
 . By the end of 15th week (5\/28\/21): Constrained least squares.
 . By the end of 16th week (6\/4\/21): Constrained least squares applications.
-. By the end of 17th week (6\/11\/21): Nonlinear least squares and constrained nonlinear least squares.
+. By the end of 17th week (6\/11\/21): Nonlinear least squares.
+. By the end of 18th week (6\/18\/21): Constrained nonlinear least squares.
 
 
 
