@@ -4,10 +4,10 @@
 
 == Current classes
 === [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811 *22811* Foundations of Computer and Programming]
-Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Calculus I\n
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Calculus I\n
 ~~~
 {}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255}
-Computational thinking, algorithms, data representation, data types, programming code, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, mutability and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation, inheritance, polymorphism, overloading and overriding, testing and debugging, exceptions and assertions, object-oriented programming.
+Computational thinking and programming code, data representation and data types, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, variables and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation and object-oriented programming, inheritance and polymorphism, overloading and overriding, testing and debugging, exceptions and assertions.
 ~~~
 
 This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum.
@@ -22,15 +22,6 @@ This course discusses computational systems biology focusing on select topics in
 This course was formerly known as [./bio/home.html *22290* Topics in Mathematical Biology], and was taught 2020-21. Some of the material from that class is expanded and used here. 
 
 == Previous classes
-=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255 *22255* Linear Algebra I]
-Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: 40 | Lectures: Sat, Mon 8:00--10:00am | Exam Date\/Time: 6\/23\/21 9:00am | Prerequisite: Calculus II\n
-~~~
-{}{img_left}{https://linear.axler.net/LADRcover.png}{Linear algebra done right}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255}
-Vector space, linear independence, dimension, duality, linear mappings, matrices, nonsingular matrices, kernel, determinant, trace, spectral theory, eigenvalues, eigenvectors, eigendecomposition, conjugacy, Cayley-Hamilton theorem, inner product space, orthonormal basis, euclidean structure, self-adjoint mappings, Hermitian matrices, unitary matrices, orthogonal matrices, diagonalizable matrices, semi-definite matrices, matrix inequalities, convexity, normed linear spaces, positive matrices, systems of linear equations, matrix decomposition, the Jordan canonical form.
-~~~
-
-This course covers the fundamentals of linear algebra with emphasis on the concepts and analytical aspects to build a solid background as it is the prerequisite for most of the Math curriculum.
-
 === [./ala/home.html *22659* Applied Linear Algebra]
 Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: 40 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 7\/4\/21 9:00am | Prerequisite: Linear Algebra I\n
 ~~~
@@ -39,6 +30,15 @@ Introduction to applied linear algebra with a focus on applications. Vectors, di
 ~~~
 
 This course is originally developed by [http://stanford.edu/~boyd/ Stephen P. Boyd]. The course materials are the same as [/https://web.stanford.edu/class/engr108/ ENGR108] at Stanford. Specifically, the textbook and lecture slides can be found [/https://web.stanford.edu/~boyd/vmls/ here].
+
+=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255 *22255* Linear Algebra I]
+Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: 40 | Lectures: Sat, Mon 8:00--10:00am | Exam Date\/Time: 6\/23\/21 9:00am | Prerequisite: Calculus II\n
+~~~
+{}{img_left}{https://linear.axler.net/LADRcover.png}{Linear algebra done right}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22255}
+Vector space, linear independence, dimension, duality, linear mappings, matrices, nonsingular matrices, kernel, determinant, trace, spectral theory, eigenvalues, eigenvectors, eigendecomposition, conjugacy, Cayley-Hamilton theorem, inner product space, orthonormal basis, euclidean structure, self-adjoint mappings, Hermitian matrices, unitary matrices, orthogonal matrices, diagonalizable matrices, semi-definite matrices, matrix inequalities, convexity, normed linear spaces, positive matrices, systems of linear equations, matrix decomposition, the Jordan canonical form.
+~~~
+
+This course covers the fundamentals of linear algebra with emphasis on the concepts and analytical aspects to build a solid background as it is the prerequisite for most of the Math curriculum.
 
 === [./bio/home.html *22290* Topics in Mathematical Biology]
 Term: Fall 2020 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: 1\/18\/21 9:00am | Prerequisite: Convex Optimization\n
