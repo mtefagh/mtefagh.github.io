@@ -3,10 +3,10 @@
 [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]
 
 == Current classes
-=== [https://wiki.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B5%DB%B5%DB%B1 *xxxxx* Algorithmic Game Theory]
+=== [./game/home.html *xxxxx* Algorithmic Game Theory]
 Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.\n
 ~~~
-{}{img_left}{Incentivus.png}{Project Incentivus}{250}{}{https://wiki.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B5%DB%B5%DB%B1}
+{}{img_left}{./game/Incentivus.png}{Project Incentivus}{250}{}{./game/home.html}
 Frontiers in mechanism design and incentive engineering for cryptoeconomic systems such as decentralized finance.
 ~~~
 
