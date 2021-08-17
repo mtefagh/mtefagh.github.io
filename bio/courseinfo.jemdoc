@@ -24,7 +24,7 @@ The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 
  .. / Initial proposal/. title \+ team members (max size of 3 students) \+ 1-page description of concept and methods (excluding references) 
  .. /Milestone report/. early draft of at most 3 pages (including annexes and figures) \+ next steps and intended experiments \+ contributions of each team member
  .. /Final writeup/. report (maximum 5 pages long) \+ link to the GitHub repository \+ contributions of each team member
-. *Grading:* Homework 30\%, project 70\%. These weights are approximate; we reserve the right to change them later.\n
+. *Grading:* Homework 30\%, project 70\%. These weights are approximate; we reserve the right to change them later.
 
 == Prerequisites
 Good knowledge of convex optimization (as in 22494), and exposure to bioinformatics.\n

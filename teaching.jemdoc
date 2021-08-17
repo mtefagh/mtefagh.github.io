@@ -4,7 +4,7 @@
 
 == Current classes
 === [./game/home.html *xxxxx* Algorithmic Game Theory]
-Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.\n
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.\n
 ~~~
 {}{img_left}{./game/Incentivus.png}{Project Incentivus}{250}{}{./game/home.html}
 Frontiers in mechanism design and incentive engineering for cryptoeconomic systems such as decentralized finance (DeFi). This course focuses on both the systemic risks at the protocol level ranging from miner extractable value (MEV) to transaction fee price manipulation and the economic exploits on the incentive layer like malicious flash loan transactions and the horrors of the dark forest. Through a wide variety of examples of issues stemming from incentive misalignment, we will see the emergence of adversarial attacks by self-interested rational agents who behave strategically to optimize their own objectives and values. 
@@ -13,7 +13,7 @@ Frontiers in mechanism design and incentive engineering for cryptoeconomic syste
 This is the alpha version of a course on the ongoing research and open problems in algorithmic game theory. Many advanced topics and cutting-edge issues in the field are discussed, which require mathematical maturity at the level of Ph.D. courses. There is no official textbook for the course.
 
 === [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811 *22811* Foundations of Computer and Programming]
-Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Calculus I\n
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD | Lectures: Sat, Mon 8:00--10:00am | Exam Date\/Time: TBD | Prerequisite: Calculus I\n
 ~~~
 {}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811}
 Computational thinking and programming code, data representation and data types, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, variables and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation and object-oriented programming, inheritance and polymorphism, overloading and overriding, testing and debugging, exceptions and assertions.

@@ -2,7 +2,7 @@
 = xxxxx Algorithmic Game Theory
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
-Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD  | Lectures: TBD | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD  | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.
 ~~~
 
 == Instructor
@@ -10,7 +10,30 @@ Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD  | Lectures: T
 [mailto:mtefagh@sharif.edu mtefagh@sharif.edu].\n\n
 
 *Teaching assistants*
+- Fateme Alimirzaei
+- Mona Mohammadi
 - Faeze Nasiri
 
 == Catalog description
 Frontiers in mechanism design and incentive engineering for cryptoeconomic systems such as decentralized finance (DeFi). This course focuses on both the systemic risks at the protocol level ranging from miner extractable value (MEV) to transaction fee price manipulation and the economic exploits on the incentive layer like malicious flash loan transactions and the horrors of the dark forest. Through a wide variety of examples of issues stemming from incentive misalignment, we will see the emergence of adversarial attacks by self-interested rational agents who behave strategically to optimize their own objectives and values.
+
+== Prerequisites
+Exposure to economics/finance and good knowledge of mathematical optimization (as in [../cvx/home.html *22494* Convex Optimization] or equivalent background) is a prerequisite or corequisite.\n
+
+Many advanced topics and cutting-edge issues in the field are discussed, which require mathematical maturity at the level of Ph.D. courses.
+
+== Textbook and optional references
+This is the alpha version of a course on the ongoing research and open problems in algorithmic game theory. There is no official textbook for the course.
+
+== Course requirements and grading
+. *Requirements:*
+ .. /Attendance and participation at sections/.
+. * Project deliverables:*
+ .. / Initial proposal/. title \+ team members (max size of 3 students) \+ 1-page description of concept and methods (excluding references) 
+ .. /Milestone report/. early draft of at most 3 pages (including annexes and figures) \+ next steps and intended experiments \+ contributions of each team member
+ .. /Final writeup/. report (maximum 5 pages long) \+ link to the GitHub repository \+ contributions of each team member
+ .. /Final exam/.  The format is a closed-book closed-notes 120-minute exam, scheduled for Sunday July 4th 9:00 am.
+. *Grading:* Final exam 40\%, project 60\%. These weights are approximate; we reserve the right to change them later.
+
+== Lectures
+Lectures are Sundays and Tuesdays, 8:00--10:00 am, and are live streamed online via [https://vc.sharif.edu/ch/mtefagh webinar]. Click [https://vc.sharif.edu/help/ here] to learn more about our webinars.
