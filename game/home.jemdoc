@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{home.html}
-= xxxxx Algorithmic Game Theory
+= 22058 Algorithmic Game Theory
 = [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
 ~~~
 Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: TBD  | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: TBD | Prerequisite: Some optimization experience and familiarity with economics.
@@ -37,3 +37,9 @@ This is the alpha version of a course on the ongoing research and open problems 
 
 == Lectures
 Lectures are Sundays and Tuesdays, 8:00--10:00 am, and are live streamed online via [https://vc.sharif.edu/ch/mtefagh webinar]. Click [https://vc.sharif.edu/help/ here] to learn more about our webinars.
+
+== Course objectives
+    - to present the basic theory of mechanism design, concentrating on results that are useful in multi-agent systems
+    - to give students the tools and training to recognize incentive misalignments that arise in cryptoeconomic systems
+    - to give students a thorough understanding of how such problems are solved, and some experience in solving them
+    - to give students the background required to use the methods in their own research work or applications
