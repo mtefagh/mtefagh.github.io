@@ -4,7 +4,7 @@
 
 == Current classes
 === [./game/home.html *22058* Algorithmic Game Theory]
-Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 10 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 1\/15\/22 3:00pm | Prerequisite: Some optimization experience and familiarity with economics.\n
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 15 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 1\/15\/22 3:00pm | Prerequisite: Some optimization experience and familiarity with economics.\n
 ~~~
 {}{img_left}{./game/Incentivus.png}{Project Incentivus}{250}{}{./game/home.html}
 Frontiers in mechanism design and incentive engineering for cryptoeconomic systems such as decentralized finance (DeFi). This course focuses on both the systemic risks at the protocol level ranging from miner extractable value (MEV) to transaction fee price manipulation and the economic exploits on the incentive layer like malicious flash loan transactions and the horrors of the dark forest. Through a wide variety of examples of issues stemming from incentive misalignment, we will see the emergence of adversarial attacks by self-interested rational agents who behave strategically to optimize their own objectives and values. 
@@ -13,7 +13,7 @@ Frontiers in mechanism design and incentive engineering for cryptoeconomic syste
 This is the alpha version of a course on the ongoing research and open problems in algorithmic game theory. Many advanced topics and cutting-edge issues in the field are discussed, which require mathematical maturity at the level of Ph.D. courses. There is no official textbook for the course.
 
 === [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811 *22811* Foundations of Computer and Programming]
-Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 60 | Lectures: Sat, Mon 8:00--10:00am | Exam Date\/Time: 1\/16\/22 9:00am | Prerequisite: Calculus I\n
+Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 100 | Lectures: Sat, Mon 8:00--10:00am | Exam Date\/Time: 1\/16\/22 9:00am | Prerequisite: Calculus I\n
 ~~~
 {}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811}
 Computational thinking and programming code, data representation and data types, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, variables and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation and object-oriented programming, inheritance and polymorphism, overloading and overriding, testing and debugging, exceptions and assertions.
@@ -22,7 +22,7 @@ Computational thinking and programming code, data representation and data types,
 This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum.
 
 === [https://wiki.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B5%DB%B5%DB%B1 *40551* Computational Systems Biology]
-Term: Fall 2021 | Units: 3 | Section: 01 | Students enrolled: 20 | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: 1\/22\/22 9:00am | Prerequisite: Some programming experience and familiarity with biology.\n
+Term: Fall 2021 | Units: 3 | Section: 01 | Students enrolled: 10 | Lectures: Sat, Mon 3:00--5:00pm | Exam Date\/Time: 1\/22\/22 9:00am | Prerequisite: Some programming experience and familiarity with biology.\n
 ~~~
 {}{img_left}{word_art.png}{Word cloud of COBRA keywords}{250}{}{https://wiki.ce.sharif.edu/%D8%AF%D8%B1%D8%B3/%DB%B4%DB%B0%DB%B5%DB%B5%DB%B1}
 This course discusses computational systems biology focusing on select topics in fluxomics in a well-balanced mixture of biology, mathematics, and computer science. We start by looking in detail at the mathematical underpinning of constraint-based analysis of genome-scale metabolic network reconstructions and provide a foundation for the analysis of optimization algorithms involved. Subsequently, we provide an overview of various papers and toolboxes from the literature in the remainder of the semester. Students will explore concepts through a research-oriented term project that will require them to define goals, success metrics, and deliverables for a computational challenge in systems biology and implement and evaluate a solution.
