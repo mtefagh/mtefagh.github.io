@@ -4,8 +4,8 @@
 
 == Current classes
 
-=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22815 *22815* Advanced Programming]
-Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 100 | Lectures: Sun, Tue 5:00--7:00pm | Exam Date\/Time: TBA | Prerequisite: Foundations of Computer and Programming\n
+=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22815/14002/main *22815* Advanced Programming]
+Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 100 | Lectures: Sun, Tue 5:00--7:00pm | Exam Date\/Time: 6\/26\/22 3:30pm | Prerequisite: Foundations of Computer and Programming\n
 ~~~
 {}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22815}
 Computational thinking and programming code, data representation and data types, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, variables and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation and object-oriented programming, inheritance and polymorphism, overloading and overriding, testing and debugging, exceptions and assertions.
@@ -13,8 +13,8 @@ Computational thinking and programming code, data representation and data types,
 
 This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum.
 
-=== [./cvx/home.html Optimization]
-Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 5:00--7:00pm | Exam Date\/Time: TBD | Prerequisite: Some programming experience and familiarity with matrix computations.\n
+=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22803/14002/main *22803* Optimization in Data Science]
+Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 5:00--7:00pm | Exam Date\/Time: 6\/25\/22 9:00am | Prerequisite: Some programming experience and familiarity with matrix computations.\n
 ~~~
 {}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}{}{./cvx/home.html}
 Necessary and sufficient conditions for existence of solution and unboundedness of linear programs, geometric and algebraic interpretations of primal simplex, revised simplex, degeneracy and its effects, analytic study of the big-M and two phase methods, cycling, lexicographical and Bland's methods to avoid cycling, simplex algorithm with bounded variables, Karush-Kuhn-Tucker (KKT) conditions, theorems of the alternatives including Farkas' lemma and Gordon's theorem, duality (weak and strong duality theorems, and complementary slackness conditions), dual and primal-dual algorithms, sensitivity analysis, integer programming (branch and bound and cutting plane algorithms), transportation and optimal assignment problems, solution of maximal flow problem (max-flow-min-cut theorem) and its use for solving the assignment problem, convex sets and functions and the corresponding analytical conditions for recognition, necessary conditions and second order sufficient conditions for minimizers of unconstrained and constrained nonlinear programming problems (the Fritz-John and the KKT conditions), and the interior-point approach for solving linear programs.
@@ -63,7 +63,7 @@ The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 
 === [./cvx/home.html *22494* Convex Optimization]
 Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 6\/28\/20 9:00am | Prerequisite: Linear Algebra I\n
 ~~~
-{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}{}{./cvx/home.html}
+{}{img_left}{./cvx/max_paraboloid.svg}{A quadratic function}{250}{}{./cvx/home.html}
 Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
 ~~~
 
