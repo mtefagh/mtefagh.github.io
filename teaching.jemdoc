@@ -13,6 +13,7 @@ Computational thinking and programming code, data representation and data types,
 
 This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum.
 
+== Selected past courses
 === [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22803/14002/main *22803* Optimization in Data Science]
 Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 5:00--7:00pm | Exam Date\/Time: 6\/25\/22 9:00am | Prerequisite: Some programming experience and familiarity with matrix computations.\n
 ~~~
@@ -22,7 +23,6 @@ Least-squares, constrained and nonlinear least-squares; applications to model fi
 
 This course was formerly known as [./cvx/home.html *22494* Convex Optimization], and was taught 2019-20. Some of the material from that class is expanded and used here. 
 
-== Selected past courses
 === [./game/home.html *22058* Algorithmic Game Theory]
 Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 15 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 1\/15\/22 3:00pm | Prerequisite: Some optimization experience and familiarity with economics.\n
 ~~~
@@ -31,7 +31,6 @@ Frontiers in mechanism design and incentive engineering for cryptoeconomic syste
 ~~~
 
 This is the alpha version of a course on the ongoing research and open problems in algorithmic game theory. Many advanced topics and cutting-edge issues in the field are discussed, which require mathematical maturity at the level of Ph.D. courses. There is no official textbook for the course.
-
 
 === [./ala/home.html *22659* Applied Linear Algebra]
 Term: Spring 2021 | Units: 4 | Section: 01 | Students enrolled: 40 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 7\/4\/21 9:00am | Prerequisite: Linear Algebra I\n
