@@ -4,24 +4,16 @@
 
 == Current classes
 
-=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22815/14002/main *22815* Advanced Programming]
-Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 100 | Lectures: Sun, Tue 5:00--7:00pm | Exam Date\/Time: 6\/26\/22 3:30pm | Prerequisite: Foundations of Computer and Programming\n
+=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811/ *22811* Foundations of Computer and Programming]
+Term: Fall 2022 | Units: 4 | Section: 01 | Students enrolled: 100 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 2\/14\/23 9:00am | Prerequisite: Calculus I\n
 ~~~
-{}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22815/14002/main}
+{}{img_left}{myLife.png}{My life}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22811/}
 Computational thinking and programming code, data representation and data types, branching and iteration, recursion and bisection, string manipulation, tuples and lists, arrays and dictionaries, variables and immutable data structures, functions and methods, classes and objects, abstraction and interfaces, encapsulation and object-oriented programming, inheritance and polymorphism, overloading and overriding, testing and debugging, exceptions and assertions.
 ~~~
 
-This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum.
+This course covers the fundamentals of computer programming with an emphasis on computational thinking, understanding algorithms, and the basic concepts of programming languages to build a solid background as it is the prerequisite for most of the CS curriculum. This course was formerly taught 2021-22. Some of the material from that class is expanded and used here. 
 
 == Selected past courses
-=== [https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22803/14002/main *22803* Optimization in Data Science]
-Term: Spring 2022 | Units: 4 | Section: 01 | Students enrolled: 30 | Lectures: Sat, Mon 5:00--7:00pm | Exam Date\/Time: 6\/25\/22 9:00am | Prerequisite: Some programming experience and familiarity with matrix computations.\n
-~~~
-{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}{}{https://hamband.math.sharif.edu/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87/%D8%AF%D8%B1%D9%88%D8%B3/22803/14002/main}
-Least-squares, constrained and nonlinear least-squares; applications to model fitting, regularization and cross-validation. Convex sets and functions and the corresponding analytical conditions for recognition. The basics of convex analysis and theory of convex programming: Karush-Kuhn-Tucker (KKT) optimality conditions, complementary slackness conditions, duality theory (weak and strong duality theorems), sensitivity analysis, theorems of the alternatives including Farkas' lemma. Linear and quadratic programming, semidefinite programming, and geometric programming.
-~~~
-
-This course was formerly known as [./cvx/home.html *22494* Convex Optimization], and was taught 2019-20. Some of the material from that class is expanded and used here. 
 
 === [./game/home.html *22058* Algorithmic Game Theory]
 Term: Fall 2021 | Units: 4 | Section: 01 | Students enrolled: 15 | Lectures: Sun, Tue 8:00--10:00am | Exam Date\/Time: 1\/15\/22 3:00pm | Prerequisite: Some optimization experience and familiarity with economics.\n
@@ -60,10 +52,10 @@ This course discusses computational systems biology focusing on select topics in
 The textbook is [https://onlinelibrary.wiley.com/doi/book/10.1002/9781119188902 Optimization Methods in Metabolic Networks]. [https://searchworks.stanford.edu/view/13249450 Applications of convex optimization in metabolic network analysis] can serve as an auxiliary text. Moreover, we will use the [http://works.bepress.com/scott_hinton/41/ constraint-based modeling lectures] from a course on metabolic modeling taught by Scott Hinton.
 
 === [./cvx/home.html *22494* Convex Optimization]
-Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 6\/28\/20 9:00am | Prerequisite: Linear Algebra I\n
+Term: Spring 2020 | Units: 3 | Section: 01 | Students enrolled: 50 | Lectures: Sun, Tue 9:00--10:30am at Math 217 | Exam Date\/Time: 6\/28\/20 9:00am | Prerequisite: Some programming experience and familiarity with matrix computations.\n
 ~~~
-{}{img_left}{./cvx/max_paraboloid.svg}{A quadratic function}{250}{}{./cvx/home.html}
-Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to systems biology, computational geometry, statistics, machine learning, and electrical engineering. 
+{}{img_left}{https://dcp.stanford.edu/static/dcp_sandbox/images/convex.svg}{A quadratic function}{250}{}{./cvx/home.html}
+Least-squares, constrained and nonlinear least-squares; applications to model fitting, regularization and cross-validation. Convex sets and functions and the corresponding analytical conditions for recognition. The basics of convex analysis and theory of convex programming: Karush-Kuhn-Tucker (KKT) optimality conditions, complementary slackness conditions, duality theory (weak and strong duality theorems), sensitivity analysis, theorems of the alternatives including Farkas' lemma. Linear and quadratic programming, semidefinite programming, and geometric programming.
 ~~~
 
 The course materials are the same as [/https://web.stanford.edu/class/ee364a/ EE364a] (Stanford) and [/http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html EE236b] (UCLA). Specifically, the textbook and lecture slides can be found [/http://stanford.edu/~boyd/cvxbook/ here].
